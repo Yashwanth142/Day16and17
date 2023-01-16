@@ -33,7 +33,7 @@ namespace SortingTechniques
 
                 if (count == 0)
                 {
-                    // Console.WriteLine(k);
+                    
                     Arp.Add(k);
                 }
 
