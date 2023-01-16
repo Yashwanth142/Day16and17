@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
 
-namespace day16
+namespace day16and17
 {
     public class SearchTheWordFromWordList
     {
